@@ -1,2 +1,1 @@
 # cristiandepaz.github.io
-stuff
